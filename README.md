@@ -1,25 +1,30 @@
-## Hi I'm AsmaDhamac <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1 align="center">Hello I am Asma</h1>
+<h3 align="center">A passionate frontend developer from Somaliland</h3>
 
-I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time coding outstanding projects.
+- 🔭 I’m currently working on [Anonymously](http://localhost:3000/?)
 
-:mailbox: Reach me out!
+- 🌱 I’m currently learning to strengthen **Frameworks and courses in Frontend**
 
-[![Twitter Badge](https://img.shields.io/badge/-@Iamshabel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/iamshabel) [![Linkedin Badge](https://img.shields.io/badge/-Mubarak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubarak-shabel-a13691223/) [![Mail Badge](https://img.shields.io/badge/-Mubarak-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mubarakshabel0@gmail.com)
+- 👯 I’m looking to collaborate on [Anonymously](http://localhost:3000/?)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<!-- TODO: Add last video link -->
+- 💬 Ask me about **Html, Css, React**
 
-- 🔭 I’m currently learning Nodejs and GraphQL
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Frontend sides.
-- 📫 How to reach me: mubarakshabel0@gmail.com.
+- 📫 How to reach me **Asma.dhamac@gmail.com**
 
-#### Top Technologies
+- ⚡ Fun fact **I like any type of adventure ;)**
 
-<!-- TODO: Make technologies links takes you to repositories -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/asmadhamac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asmadhamac" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asma dhamac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asma dhamac" height="30" width="40" /></a>
+<a href="https://fb.com/asma dhamac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asma dhamac" height="30" width="40" /></a>
+<a href="https://instagram.com/asmadhamac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asmadhamac" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/asmadhamac7870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asmadhamac7870" height="30" width="40" /></a>
+<a href="https://discord.gg/Asmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asmaa" height="30" width="40" /></a>
+</p>
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [![Python Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=flutter&logoColor=3F79AC)](#)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-#### Github Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmadhamac&show_icons=true&locale=en&layout=compact" alt="asmadhamac" /></p>
 
-![Mubarak's github stats](https://github-readme-stats.vercel.app/api?username=iamshabell&count_private=true&theme=tokyonight&hide=contribs,prs)
